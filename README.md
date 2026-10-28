@@ -60,4 +60,96 @@
   <a href="https://wa.me/Deriv_Pro"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
+## 📈 𝐕𝐞𝐫𝐢𝐟𝐢𝐞𝐝 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐑𝐞𝐬𝐮𝐥𝐭𝐬
+
+Check out our latest performance tracking screenshots from actual trading runs:
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/7ff4f496-3d71-4195-b922-fa9272fbf0d6" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/4925f1ff-f833-4318-b3fb-adbdcaf6e6a8" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/e90cf60d-acfc-41df-8496-ffff31a65138" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/e5c5e272-9cc4-4cd4-8238-5b00ba9bb6ef" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/39e56fa4-876d-406f-a7bb-974695ec5d76" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/9a11d0f9-6772-4291-89b7-d22aeb29f4ec" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/c460fb7b-7f9f-4e40-9755-d4065c68f9e2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/73a00fa1-26ce-440f-8be5-c57af0f87c15" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/62ed477f-6aeb-4d3b-adbb-ded43d2df7d6" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/ad7a987f-8c9d-4f32-9a29-0510e2ef7bd2" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/3ef1e9cc-38c5-42f9-83b3-db7f9b33f8d3" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/f2d78d0c-3247-4a54-b8fe-23c7ba167c85" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/491f034c-9b06-4ae8-9088-a533df2486a7" width="260">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/353e233f-2a75-42cf-b6f9-147bf2adcf5a" width="260">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/8236ecab-79b9-4045-a6a7-8902059b39e7" width="260">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/4a528d9d-7dee-4b48-9dba-c3c62e17d9b8" width="260">
+    </td>
+  </tr>
+</table>
+
+
+---
+<div align="center">
+
+**Built and maintained by Deriv Pro**
+
+
+<sub>Trade smart. Risk less. Stay consistent.</sub>
+
+</div>
 
