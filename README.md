@@ -144,13 +144,13 @@ Check out our latest performance tracking screenshots from actual trading runs:
     </td>
   </tr>
 </table>
-| Image 1 | Image 2 |
-|---------|---------|
-| <img src="https://github.com/user-attachments/assets/4b8e367c-e5ee-448e-af8a-b08273c80e19" width="300"/> | <img src="https://github.com/user-attachments/assets/7c8cc828-e0e0-4265-a3bb-c92328fb29a3" width="300"/> |
+<img src="https://github.com/user-attachments/assets/4b8e367c-e5ee-448e-af8a-b08273c80e19" width="300"/> 
 
-| Image 3 | Image 4 |
-|---------|---------|
-| <img src="https://github.com/user-attachments/assets/f49d4f30-8460-4d5b-8775-047fd30eaf6b" width="300"/> | <img src="https://github.com/user-attachments/assets/da51a16f-3314-43c9-94e5-dc6115ca7471" width="300"/> |
+<img src="https://github.com/user-attachments/assets/7c8cc828-e0e0-4265-a3bb-c92328fb29a3" width="300"/> 
+
+<img src="https://github.com/user-attachments/assets/f49d4f30-8460-4d5b-8775-047fd30eaf6b" width="300"/> 
+
+<img src="https://github.com/user-attachments/assets/da51a16f-3314-43c9-94e5-dc6115ca7471" width="300"/>
 
 
 ---
